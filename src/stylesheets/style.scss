@@ -1,0 +1,18 @@
+@import '~normalize.css/normalize.css';
+@import './base';
+@import './media';
+@import './fonts';
+
+// custom styles
+
+html {
+  min-height: 100vh;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100%;
+}
