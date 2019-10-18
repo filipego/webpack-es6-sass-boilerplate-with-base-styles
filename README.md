@@ -2,6 +2,7 @@ Boilerplate with base styles.
 
 ## What’s in it?
 
+- My base css styles
 - [Webpack 4](https://github.com/webpack/webpack) JavaScript module bundler
 - [Babel 7](https://babeljs.io/) compiler ES6+ code into a backwards compatible version of JavaScript
 - [SASS](http://sass-lang.com) preprocessor for CSS
