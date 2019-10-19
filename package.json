@@ -43,7 +43,6 @@
     "lint-staged": "^9.4.0",
     "mini-css-extract-plugin": "^0.8.0",
     "node-sass": "^4.12.0",
-    "normalize.css": "^8.0.1",
     "postcss-flexbugs-fixes": "^4.1.0",
     "postcss-loader": "^3.0.0",
     "prettier": "^1.18.2",
@@ -91,5 +90,8 @@
       "stylelint --fix",
       "git add"
     ]
+  },
+  "dependencies": {
+    "reset-css": "^5.0.0"
   }
 }
